@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto-slab: "Roboto Slab";
+  --font-roboto-condensed: "Roboto Condensed";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-3xl-1: 22.1px;
+  --padding-lg: 18px;
+  --padding-xl-1: 20.1px;
+}
